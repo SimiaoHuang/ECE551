@@ -1,0 +1,242 @@
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of telemetry.sv failed with 3 errors.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry.sv failed with 2 errors.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv failed with 8 errors.
+# Compile of telemetry_tb.sv was successful.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:13:47 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+quit -sim
+# End time: 13:14:02 on Mar 09,2022, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 13
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:14:25 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+add wave -position insertpoint sim:/telemetry_tb/*
+run -all
+# Test failed: delimt1 does not match
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(40)
+#    Time: 41395 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 40
+quit -sim
+# End time: 13:15:55 on Mar 09,2022, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 2
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:16:40 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+add wave -position insertpoint sim:/telemetry_tb/*
+run -all
+# delim1 is received correctly
+# delim2 is received correctly
+# payload1 is received correctly
+# payload2 is received correctly
+# payload3 is received correctly
+# payload4 is received correctly
+# payload6 is received correctly
+# delim1 is received correctly
+# Tests passed!!!
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(104)
+#    Time: 10527155 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 104
+quit -sim
+# End time: 13:17:02 on Mar 09,2022, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 2
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:32:35 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+run -all
+# delim1 is received correctly
+# delim2 is received correctly
+# payload1 is received correctly
+# payload2 is received correctly
+# payload3 is received correctly
+# payload4 is received correctly
+# payload6 is received correctly
+# delim1 is received correctly
+# Tests passed!!!
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(103)
+#    Time: 10527155 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 103
+quit -sim
+# End time: 13:32:56 on Mar 09,2022, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 2
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:34:08 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+run -all
+# delim1 is received correctly
+# delim2 is received correctly
+# payload1 is received correctly
+# payload2 is received correctly
+# payload3 is received correctly
+# payload4 is received correctly
+# payload6 is received correctly
+# delim1 is received correctly
+# Tests passed!!!
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(103)
+#    Time: 10527155 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 103
+quit -sim
+# End time: 13:34:28 on Mar 09,2022, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 2
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:36:46 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+run -all
+# delim1 is received correctly
+# delim2 is received correctly
+# payload1 is received correctly
+# payload2 is received correctly
+# payload3 is received correctly
+# payload4 is received correctly
+# payload6 is received correctly
+# delim1 is received correctly
+# Tests passed!!!
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(103)
+#    Time: 10527155 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 103
+quit -sim
+# End time: 13:37:07 on Mar 09,2022, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 2
+# Compile of telemetry_tb.sv was successful.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:39:46 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+run -all
+# delim1 is received correctly
+# delim2 is received correctly
+# payload1 is received correctly
+# payload2 is received correctly
+# payload3 is received correctly
+# payload4 is received correctly
+# payload6 is received correctly
+# delim1 is received correctly
+# Tests passed!!!
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(103)
+#    Time: 10527155 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 103
+quit -sim
+# End time: 13:40:04 on Mar 09,2022, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 2
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:51:23 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+run -all
+# delim1 received correctly
+# delim2 received correctly
+# payload1 received correctly
+# payload2 received correctly
+# payload3 received correctly
+# payload4 received correctly
+# payload5 received correctly
+# payload6 received correctly
+# Tests passed!!!
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(102)
+#    Time: 346095 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 102
+quit -sim
+# End time: 13:51:45 on Mar 09,2022, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 2
+# Compile of UART_rcv.sv was successful.
+# Compile of UART_tx.sv was successful.
+# Compile of telemetry.sv was successful.
+# Compile of telemetry_tb.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.telemetry_tb
+# vsim -gui work.telemetry_tb 
+# Start time: 13:53:48 on Mar 09,2022
+# Loading sv_std.std
+# Loading work.telemetry_tb
+# Loading work.telemetry
+# Loading work.UART_tx
+# Loading work.UART_rcv
+run -all
+# delim1 received correctly
+# delim2 received correctly
+# payload1 received correctly
+# payload2 received correctly
+# payload3 received correctly
+# payload4 received correctly
+# payload5 received correctly
+# payload6 received correctly
+# Tests passed!!!
+# ** Note: $stop    : C:/ECE551/HW3/telemetry_tb.sv(102)
+#    Time: 346095 ps  Iteration: 2  Instance: /telemetry_tb
+# Break in Module telemetry_tb at C:/ECE551/HW3/telemetry_tb.sv line 102
+quit -sim
+# End time: 13:54:01 on Mar 09,2022, Elapsed time: 0:00:13
+# Errors: 0, Warnings: 2

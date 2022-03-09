@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ECE551/EX11
+vtelemetry
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1646855623
+!i10b 1
+!s100 izSZS>j<CF7f5eK]f;N3z0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1EIK48c?>fEmfQ7OkCNz=1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/ECE551/HW3
+w1646855620
+8C:/ECE551/HW3/telemetry.sv
+FC:/ECE551/HW3/telemetry.sv
+!i122 32
+L0 1 107
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1646855623.000000
+!s107 C:/ECE551/HW3/telemetry.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/HW3/telemetry.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtelemetry_tb
+R0
+R1
+!i10b 1
+!s100 HEj30YzFc@9PbRLjDo>450
+R2
+I1HRKH3508PbnYXaF[dCVL1
+R3
+S1
+R4
+w1646855523
+8C:/ECE551/HW3/telemetry_tb.sv
+FC:/ECE551/HW3/telemetry_tb.sv
+!i122 33
+L0 1 108
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ECE551/HW3/telemetry_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/HW3/telemetry_tb.sv|
+!i113 1
+R7
+R8
+vUART_rcv
+R0
+!s110 1646855622
+!i10b 1
+!s100 e?H4N6Ja[5LK1c7S6k>G20
+R2
+Ib3N`jSm:Z`oIkI;a0PZbN0
+R3
+S1
+R4
+Z9 w1646847929
+8C:/ECE551/HW3/UART_rcv.sv
+FC:/ECE551/HW3/UART_rcv.sv
+!i122 30
+Z10 L0 1 111
+R5
+r1
+!s85 0
+31
+Z11 !s108 1646855622.000000
+!s107 C:/ECE551/HW3/UART_rcv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/HW3/UART_rcv.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_rcv
+vUART_tx
+R0
+R1
+!i10b 1
+!s100 :Q@`FTZ_K_VTzGPje<fZh0
+R2
+I]X6fo]1MNOLoQ20bX8HSU1
+R3
+S1
+R4
+R9
+8C:/ECE551/HW3/UART_tx.sv
+FC:/ECE551/HW3/UART_tx.sv
+!i122 31
+R10
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/ECE551/HW3/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/HW3/UART_tx.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_tx
