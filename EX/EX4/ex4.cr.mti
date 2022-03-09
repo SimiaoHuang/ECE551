@@ -1,0 +1,15 @@
+E:/modelsim/EX/EX4/synch_detect.v {1 {vlog -work work -stats=none E:/modelsim/EX/EX4/synch_detect.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module synch_detect
+
+Top level modules:
+	synch_detect
+
+} {} {}} {C:/Users/11613/OneDrive - UW-Madison/synch_detect_tb.v} {1 {vlog -work work -stats=none {C:/Users/11613/OneDrive - UW-Madison/synch_detect_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module synch_detect_tb
+
+Top level modules:
+	synch_detect_tb
+
+} {} {}}

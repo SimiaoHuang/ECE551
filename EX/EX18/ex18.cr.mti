@@ -1,0 +1,8 @@
+E:/modelsim/EX/EX18/mult_accum_gate.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX18/mult_accum_gate.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mult_accum_gated
+
+Top level modules:
+	mult_accum_gated
+
+} {} {}}

@@ -1,0 +1,36 @@
+E:/modelsim/EX/EX21/charge/PB_release.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX21/charge/PB_release.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PB_release
+
+Top level modules:
+	PB_release
+
+} {} {}} E:/modelsim/EX/EX21/charge/charge.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX21/charge/charge.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module charge
+
+Top level modules:
+	charge
+
+} {} {}} E:/modelsim/EX/EX21/charge/charge_tb.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX21/charge/charge_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module charge_tb
+
+Top level modules:
+	charge_tb
+
+} {} {}} E:/modelsim/EX/EX21/charge/rst_synch.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX21/charge/rst_synch.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rst_synch
+
+Top level modules:
+	rst_synch
+
+} {} {}} E:/modelsim/EX/EX21/charge/charge_test.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX21/charge/charge_test.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module charge_test
+
+Top level modules:
+	charge_test
+
+} {} {}}

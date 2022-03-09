@@ -1,0 +1,15 @@
+E:/modelsim/EX/EX23/TourCmd.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX23/TourCmd.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TourCmd
+
+Top level modules:
+	TourCmd
+
+} {} {}} E:/modelsim/EX/EX23/TourCmd_tb.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX23/TourCmd_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TourCmd_tb
+
+Top level modules:
+	TourCmd_tb
+
+} {} {}}

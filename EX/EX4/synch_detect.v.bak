@@ -1,0 +1,10 @@
+module synch_detect(asynch_sig_in, clk, rise_edge);
+
+input clk;
+input asy_sig_in;
+output reg rise_edge;
+
+always @(posedge clk);
+ assign rise_edge = asy_sig_in;
+
+endmodule

@@ -1,0 +1,220 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1/modelsim_ase/win32aloem
+vBusInt
+Z0 !s110 1643677390
+!i10b 1
+!s100 WDlVMUnlSjfZ`obLUVDUj2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPJJ@75j_dD^F6Zk@mQiSY3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/ECE551/shuang455/tutorial
+w1643675786
+8C:/ECE551/shuang455/tutorial/busint.v
+FC:/ECE551/shuang455/tutorial/busint.v
+!i122 9
+L0 9 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1643677390.000000
+!s107 C:/ECE551/shuang455/tutorial/busint.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/busint.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@bus@int
+vmux
+!s110 1643677697
+!i10b 1
+!s100 j;?MhmP6Q]ij07bgiz9;k3
+R1
+If1LRQ:2ARVB1B0ledZXPU0
+R2
+R3
+w1643677694
+8C:\ECE551\shuang455\tutorial\errors.v
+FC:\ECE551\shuang455\tutorial\errors.v
+!i122 18
+L0 1 8
+R4
+r1
+!s85 0
+31
+!s108 1643677697.000000
+!s107 C:\ECE551\shuang455\tutorial\errors.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\ECE551\shuang455\tutorial\errors.v|
+!i113 1
+R6
+R7
+vReceive
+R0
+!i10b 1
+!s100 PCb=Yg1XS8``9c[]nZK?f0
+R1
+INN0z_Fnl:S_PA:@;9DfDB2
+R2
+R3
+w1643675787
+8C:/ECE551/shuang455/tutorial/receive.v
+FC:/ECE551/shuang455/tutorial/receive.v
+!i122 11
+L0 12 131
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ECE551/shuang455/tutorial/receive.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/receive.v|
+!i113 1
+R6
+R7
+n@receive
+vssp
+R0
+!i10b 1
+!s100 knFhSGVBJ;Olh=0[ecE:l1
+R1
+IkV[Y^8g[hO[6dW8nd@8BY0
+R2
+R3
+w1643675788
+8C:/ECE551/shuang455/tutorial/ssp.v
+FC:/ECE551/shuang455/tutorial/ssp.v
+!i122 12
+L0 8 36
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ECE551/shuang455/tutorial/ssp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/ssp.v|
+!i113 1
+R6
+R7
+vt_errors
+R0
+!i10b 1
+!s100 V44<T@JBSb<WnHYUMNViz1
+R1
+I=TTDNF[L7S8a>zdcN?81d2
+R2
+R3
+Z8 w1643675789
+8C:/ECE551/shuang455/tutorial/t_errors.v
+FC:/ECE551/shuang455/tutorial/t_errors.v
+!i122 13
+L0 2 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ECE551/shuang455/tutorial/t_errors.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/t_errors.v|
+!i113 1
+R6
+R7
+vt_receive
+R0
+!i10b 1
+!s100 9mLzz=z20a6`1BYahSEVA3
+R1
+IGk4j]baQBMz2jDY=zFA8B0
+R2
+R3
+R8
+8C:/ECE551/shuang455/tutorial/t_receive.v
+FC:/ECE551/shuang455/tutorial/t_receive.v
+!i122 14
+L0 10 59
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ECE551/shuang455/tutorial/t_receive.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/t_receive.v|
+!i113 1
+R6
+R7
+vt_ssp
+R0
+!i10b 1
+!s100 aG5BY]I0dZCPFl:<ECH?f3
+R1
+ILo5din[Em:`CR?MYC5L:23
+R2
+R3
+Z9 w1643675790
+8C:/ECE551/shuang455/tutorial/t_ssp.v
+FC:/ECE551/shuang455/tutorial/t_ssp.v
+!i122 15
+L0 8 100
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ECE551/shuang455/tutorial/t_ssp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/t_ssp.v|
+!i113 1
+R6
+R7
+vt_transmit
+Z10 !s110 1643677391
+!i10b 1
+!s100 ZzP_zmO7ET[De^6GEESC43
+R1
+Ic^HizN=]14oefoIgD6P4_1
+R2
+R3
+R9
+8C:/ECE551/shuang455/tutorial/t_transmit.v
+FC:/ECE551/shuang455/tutorial/t_transmit.v
+!i122 16
+L0 13 36
+R4
+r1
+!s85 0
+31
+Z11 !s108 1643677391.000000
+!s107 C:/ECE551/shuang455/tutorial/t_transmit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/t_transmit.v|
+!i113 1
+R6
+R7
+vtransmit
+R10
+!i10b 1
+!s100 iCSlA>21J>[Kn1en@bB>d0
+R1
+I91cFSBD39nZ=55>hDzh3o2
+R2
+R3
+w1643675791
+8C:/ECE551/shuang455/tutorial/transmit.v
+FC:/ECE551/shuang455/tutorial/transmit.v
+!i122 17
+L0 9 114
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/ECE551/shuang455/tutorial/transmit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/shuang455/tutorial/transmit.v|
+!i113 1
+R6
+R7

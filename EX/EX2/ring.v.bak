@@ -1,0 +1,13 @@
+module ring(en, out);
+
+input en;
+output out;
+initial begin en=0,out=1;
+wire n1, n2;
+ 
+ nand#5 (n1,en,out);
+ not#5 (n2,n1);
+ not#5 (out,n2);
+
+endmodule
+ 

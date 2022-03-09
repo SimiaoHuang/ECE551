@@ -1,0 +1,146 @@
+# Compile of PID_cntrl.sv was successful.
+# Compile of PID_cntrl_tb.sv was successful.
+# Compile of plant.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.PID_cntrl_tb
+# vsim -gui work.PID_cntrl_tb 
+# Start time: 11:05:32 on Feb 07,2022
+# Loading sv_std.std
+# Loading work.PID_cntrl_tb
+# Loading work.PID
+# Loading work.plant
+add wave -position insertpoint  \
+sim:/PID_cntrl_tb/target_curr \
+sim:/PID_cntrl_tb/avg_curr \
+sim:/PID_cntrl_tb/drv_duty
+run -all
+# ** Note: $stop    : C:/ECE551/EX05/PID_cntrl_tb.sv(36)
+#    Time: 51005 ps  Iteration: 1  Instance: /PID_cntrl_tb
+# Break in Module PID_cntrl_tb at C:/ECE551/EX05/PID_cntrl_tb.sv line 36
+quit -sim
+# End time: 11:12:09 on Feb 07,2022, Elapsed time: 0:06:37
+# Errors: 0, Warnings: 5
+# Compile of PID_cntrl.sv was successful.
+vsim -gui work.PID_cntrl_tb
+# vsim -gui work.PID_cntrl_tb 
+# Start time: 11:13:42 on Feb 07,2022
+# Loading sv_std.std
+# Loading work.PID_cntrl_tb
+# Loading work.PID
+# Loading work.plant
+add wave -position insertpoint  \
+sim:/PID_cntrl_tb/target_curr \
+sim:/PID_cntrl_tb/avg_curr \
+sim:/PID_cntrl_tb/drv_duty
+run -all
+# ** Note: $stop    : C:/ECE551/EX05/PID_cntrl_tb.sv(36)
+#    Time: 51005 ps  Iteration: 1  Instance: /PID_cntrl_tb
+# Break in Module PID_cntrl_tb at C:/ECE551/EX05/PID_cntrl_tb.sv line 36
+quit -sim
+# End time: 11:15:45 on Feb 07,2022, Elapsed time: 0:02:03
+# Errors: 0, Warnings: 2
+# Compile of PID_cntrl.sv was successful.
+vsim -gui work.PID_cntrl_tb
+# vsim -gui work.PID_cntrl_tb 
+# Start time: 11:16:27 on Feb 07,2022
+# Loading sv_std.std
+# Loading work.PID_cntrl_tb
+# Loading work.PID
+# Loading work.plant
+add wave -position insertpoint  \
+sim:/PID_cntrl_tb/target_curr \
+sim:/PID_cntrl_tb/avg_curr \
+sim:/PID_cntrl_tb/drv_duty
+run -all
+# ** Note: $stop    : C:/ECE551/EX05/PID_cntrl_tb.sv(36)
+#    Time: 51005 ps  Iteration: 1  Instance: /PID_cntrl_tb
+# Break in Module PID_cntrl_tb at C:/ECE551/EX05/PID_cntrl_tb.sv line 36
+quit -sim
+# End time: 11:19:30 on Feb 07,2022, Elapsed time: 0:03:03
+# Errors: 0, Warnings: 2
+# Compile of PID_cntrl.sv was successful.
+vsim -gui work.PID_cntrl_tb
+# vsim -gui work.PID_cntrl_tb 
+# Start time: 11:20:49 on Feb 07,2022
+# Loading sv_std.std
+# Loading work.PID_cntrl_tb
+# Loading work.PID
+# Loading work.plant
+add wave -position insertpoint  \
+sim:/PID_cntrl_tb/target_curr \
+sim:/PID_cntrl_tb/avg_curr \
+sim:/PID_cntrl_tb/drv_duty
+run -all
+# ** Note: $stop    : C:/ECE551/EX05/PID_cntrl_tb.sv(36)
+#    Time: 51005 ps  Iteration: 1  Instance: /PID_cntrl_tb
+# Break in Module PID_cntrl_tb at C:/ECE551/EX05/PID_cntrl_tb.sv line 36
+quit -sim
+# End time: 11:21:33 on Feb 07,2022, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 2
+# Compile of PID_cntrl.sv was successful.
+# Compile of PID_cntrl.sv was successful.
+# Compile of PID_cntrl_tb.sv was successful.
+# Compile of plant.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.PID_cntrl_tb
+# vsim -gui work.PID_cntrl_tb 
+# Start time: 11:22:09 on Feb 07,2022
+# Loading sv_std.std
+# Loading work.PID_cntrl_tb
+# Loading work.PID
+# Loading work.plant
+add wave -position insertpoint  \
+sim:/PID_cntrl_tb/target_curr \
+sim:/PID_cntrl_tb/avg_curr \
+sim:/PID_cntrl_tb/drv_duty
+run -all
+# ** Note: $stop    : C:/ECE551/EX05/PID_cntrl_tb.sv(36)
+#    Time: 51005 ps  Iteration: 1  Instance: /PID_cntrl_tb
+# Break in Module PID_cntrl_tb at C:/ECE551/EX05/PID_cntrl_tb.sv line 36
+quit -sim
+# End time: 11:23:00 on Feb 07,2022, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 3
+# Compile of PID_cntrl.sv was successful.
+# Compile of PID_cntrl_tb.sv was successful.
+# Compile of plant.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.PID_cntrl_tb
+# vsim -gui work.PID_cntrl_tb 
+# Start time: 11:23:31 on Feb 07,2022
+# Loading sv_std.std
+# Loading work.PID_cntrl_tb
+# Loading work.PID
+# Loading work.plant
+add wave -position insertpoint  \
+sim:/PID_cntrl_tb/target_curr \
+sim:/PID_cntrl_tb/avg_curr \
+sim:/PID_cntrl_tb/drv_duty
+run -all
+# ** Note: $stop    : C:/ECE551/EX05/PID_cntrl_tb.sv(36)
+#    Time: 51005 ps  Iteration: 1  Instance: /PID_cntrl_tb
+# Break in Module PID_cntrl_tb at C:/ECE551/EX05/PID_cntrl_tb.sv line 36
+quit -sim
+# End time: 11:24:38 on Feb 07,2022, Elapsed time: 0:01:07
+# Errors: 0, Warnings: 2
+# Compile of PID_cntrl.sv was successful.
+# Compile of PID_cntrl_tb.sv was successful.
+# Compile of plant.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.PID_cntrl_tb
+# vsim -gui work.PID_cntrl_tb 
+# Start time: 11:25:06 on Feb 07,2022
+# Loading sv_std.std
+# Loading work.PID_cntrl_tb
+# Loading work.PID
+# Loading work.plant
+add wave -position insertpoint  \
+sim:/PID_cntrl_tb/target_curr \
+sim:/PID_cntrl_tb/avg_curr \
+sim:/PID_cntrl_tb/drv_duty
+run -all
+# ** Note: $stop    : C:/ECE551/EX05/PID_cntrl_tb.sv(36)
+#    Time: 51005 ps  Iteration: 1  Instance: /PID_cntrl_tb
+# Break in Module PID_cntrl_tb at C:/ECE551/EX05/PID_cntrl_tb.sv line 36
+quit -sim
+# End time: 11:26:13 on Feb 07,2022, Elapsed time: 0:01:07
+# Errors: 0, Warnings: 2

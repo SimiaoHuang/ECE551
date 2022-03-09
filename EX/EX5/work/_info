@@ -1,0 +1,88 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim/EX/EX4/HW1
+vPID
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1632200179
+!i10b 1
+!s100 Uma5kza5LnRFnLgEl]z742
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]`kH@zQBUgFQGYWPg5AB90
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dE:/modelsim/EX/EX5
+w1632200175
+8C:/Users/11613/OneDrive - UW-Madison/PID_cntrl.sv
+FC:/Users/11613/OneDrive - UW-Madison/PID_cntrl.sv
+!i122 20
+L0 1 70
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1632200179.000000
+!s107 C:/Users/11613/OneDrive - UW-Madison/PID_cntrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/11613/OneDrive - UW-Madison/PID_cntrl.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@p@i@d
+vPID_cntrl_tb
+R0
+Z7 !s110 1632194718
+!i10b 1
+!s100 =CTYM2oZ`=O8V?>_4LlN60
+R1
+INajXcT9I;fAP7<GjGDamT0
+R2
+S1
+R3
+w1632193509
+8C:/Users/11613/OneDrive - UW-Madison/PID_cntrl_tb.sv
+FC:/Users/11613/OneDrive - UW-Madison/PID_cntrl_tb.sv
+!i122 2
+L0 1 42
+R4
+r1
+!s85 0
+31
+Z8 !s108 1632194718.000000
+!s107 C:/Users/11613/OneDrive - UW-Madison/PID_cntrl_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/11613/OneDrive - UW-Madison/PID_cntrl_tb.sv|
+!i113 1
+R5
+R6
+n@p@i@d_cntrl_tb
+vplant
+R0
+R7
+!i10b 1
+!s100 liNLE8:F_Q[Tjo;NkKY3U2
+R1
+IFS<RiYXZfj:YNJ>E7[nJo1
+R2
+S1
+R3
+w1632193505
+8C:/Users/11613/OneDrive - UW-Madison/plant.sv
+FC:/Users/11613/OneDrive - UW-Madison/plant.sv
+!i122 0
+L0 1 57
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/11613/OneDrive - UW-Madison/plant.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/11613/OneDrive - UW-Madison/plant.sv|
+!i113 1
+R5
+R6

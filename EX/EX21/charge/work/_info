@@ -1,0 +1,162 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim/EX/EX21
+vcharge
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1637363434
+!i10b 1
+!s100 N2RGPTB45^bVDNEC]aM=82
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+If@GFCPR>iXQF:2oo8SX3z1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dE:/modelsim/EX/EX21/charge
+w1637362421
+8E:/modelsim/EX/EX21/charge/charge.sv
+FE:/modelsim/EX/EX21/charge/charge.sv
+!i122 106
+L0 1 219
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1637363434.000000
+!s107 E:/modelsim/EX/EX21/charge/charge.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX21/charge/charge.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vcharge_tb
+R0
+R1
+!i10b 1
+!s100 MOF<;EWX]>IZbN4TMRNzk3
+R2
+IngbhJjI9<8HfMD2Ri9J1Q2
+R3
+S1
+R4
+w1637362947
+8E:/modelsim/EX/EX21/charge/charge_tb.sv
+FE:/modelsim/EX/EX21/charge/charge_tb.sv
+!i122 105
+L0 1 42
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/modelsim/EX/EX21/charge/charge_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX21/charge/charge_tb.sv|
+!i113 1
+R7
+R8
+vcharge_test
+R0
+!s110 1637364461
+!i10b 1
+!s100 5^VONYoALa>b;m8YF5gEm2
+R2
+I3eG_@dMn<ZzcE>^<[=`JG2
+R3
+S1
+R4
+w1637363412
+8E:/modelsim/EX/EX21/charge/charge_test.sv
+FE:/modelsim/EX/EX21/charge/charge_test.sv
+!i122 110
+L0 1 18
+R5
+r1
+!s85 0
+31
+!s108 1637364461.000000
+!s107 E:/modelsim/EX/EX21/charge/charge_test.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX21/charge/charge_test.sv|
+!i113 1
+R7
+R8
+vcmd_proc
+R0
+!s110 1637333272
+!i10b 1
+!s100 n2EU<@DMLTF`4mU17jFXg3
+R2
+IT:SoO9l:m_35kz84MRTmi1
+R3
+S1
+R4
+w1637333236
+8C:/Users/11613/Desktop/proc.sv
+FC:/Users/11613/Desktop/proc.sv
+!i122 93
+L0 1 197
+R5
+r1
+!s85 0
+31
+!s108 1637333272.000000
+!s107 C:/Users/11613/Desktop/proc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/11613/Desktop/proc.sv|
+!i113 1
+R7
+R8
+vPB_release
+R0
+!s110 1637363625
+!i10b 1
+!s100 1Q10g5K?>1:n6071zoz;`2
+R2
+I[Q4SXcKzC<zIYVe48h0IQ0
+R3
+S1
+R4
+w1637363617
+8E:/modelsim/EX/EX21/charge/PB_release.sv
+FE:/modelsim/EX/EX21/charge/PB_release.sv
+!i122 109
+L0 1 30
+R5
+r1
+!s85 0
+31
+!s108 1637363625.000000
+!s107 E:/modelsim/EX/EX21/charge/PB_release.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX21/charge/PB_release.sv|
+!i113 1
+R7
+R8
+n@p@b_release
+vrst_synch
+R0
+R1
+!i10b 1
+!s100 =DcP?zBO]lo:HhJfb_z=K1
+R2
+IQ^>V:N]`SjMd1HACl_bQf1
+R3
+S1
+R4
+w1636596956
+8E:/modelsim/EX/EX21/charge/rst_synch.sv
+FE:/modelsim/EX/EX21/charge/rst_synch.sv
+!i122 107
+L0 1 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/modelsim/EX/EX21/charge/rst_synch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX21/charge/rst_synch.sv|
+!i113 1
+R7
+R8

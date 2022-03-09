@@ -1,0 +1,71 @@
+C:/ECE551/shuang455/tutorial/receive.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/receive.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Receive
+
+Top level modules:
+	Receive
+
+} {} {}} C:/ECE551/shuang455/tutorial/t_errors.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/t_errors.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module t_errors
+
+Top level modules:
+	t_errors
+
+} {} {}} C:/ECE551/shuang455/tutorial/t_transmit.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/t_transmit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module t_transmit
+
+Top level modules:
+	t_transmit
+
+} {} {}} C:/ECE551/shuang455/tutorial/t_ssp.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/t_ssp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module t_ssp
+
+Top level modules:
+	t_ssp
+
+} {} {}} C:/ECE551/shuang455/tutorial/errors.v {1 {vlog -work work -stats=none {C:\ECE551\shuang455\tutorial\errors.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/ECE551/shuang455/tutorial/busint.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/busint.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BusInt
+
+Top level modules:
+	BusInt
+
+} {} {}} C:/ECE551/shuang455/tutorial/transmit.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/transmit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module transmit
+
+Top level modules:
+	transmit
+
+} {} {}} C:/ECE551/shuang455/tutorial/t_receive.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/t_receive.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module t_receive
+
+Top level modules:
+	t_receive
+
+} {} {}} C:/ECE551/shuang455/tutorial/ssp.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/ssp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ssp
+
+Top level modules:
+	ssp
+
+} {} {}} C:/ECE551/shuang455/tutorial/mux.v {1 {vlog -work work -stats=none C:/ECE551/shuang455/tutorial/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}}

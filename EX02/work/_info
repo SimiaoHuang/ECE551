@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ECE551/EX01
+vring_osc
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1643650411
+!i10b 1
+!s100 l>cV@DI`V[M;ee>3OhTKX1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjAgC8PA1<GQ]HXg@g]J?b1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/ECE551/EX02
+w1643607182
+8C:/ECE551/EX02/ring_osc.sv
+FC:/ECE551/EX02/ring_osc.sv
+!i122 6
+L0 1 10
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1643650410.000000
+!s107 C:/ECE551/EX02/ring_osc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX02/ring_osc.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vring_osc_tb
+R0
+R1
+!i10b 1
+!s100 1o4KDCYg[fK:GY2d[PZ2j2
+R2
+I0mOf5@bG<0moKl@Czc5La0
+R3
+S1
+R4
+w1643607814
+8C:/ECE551/EX02/ring_osc_tb.sv
+FC:/ECE551/EX02/ring_osc_tb.sv
+!i122 7
+L0 1 14
+R5
+r1
+!s85 0
+31
+!s108 1643650411.000000
+!s107 C:/ECE551/EX02/ring_osc_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX02/ring_osc_tb.sv|
+!i113 1
+R6
+R7

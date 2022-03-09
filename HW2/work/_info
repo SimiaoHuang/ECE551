@@ -1,0 +1,137 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ECE551/EX07
+vff_c
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1645487083
+!i10b 1
+!s100 AlAd^0^`UeJfX2:T83Pjz0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUnXQY1_EACHih9P0PbCNd0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/ECE551/HW2
+Z5 w1645487076
+Z6 8C:/ECE551/HW2/HW2_prob3.sv
+Z7 FC:/ECE551/HW2/HW2_prob3.sv
+!i122 11
+L0 14 15
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1645487083.000000
+!s107 C:/ECE551/HW2/HW2_prob3.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/HW2/HW2_prob3.sv|
+!i113 1
+Z11 o-work work -sv
+Z12 tCvgOpt 0
+vff_d
+R0
+R1
+!i10b 1
+!s100 A_9jWL`0kZGAY6gA5kj9[2
+R2
+IaS1L[0;3:RY9Qg8@lIM1F0
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 11
+L0 31 15
+R8
+r1
+!s85 0
+31
+R9
+Z13 !s107 C:/ECE551/HW2/HW2_prob3.sv|
+R10
+!i113 1
+R11
+R12
+vlatch
+R0
+R1
+!i10b 1
+!s100 j4C<KRMk8bSSU[S7VXVDd0
+R2
+IaGNUO]36eof3`Io3S>XOg0
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 11
+L0 3 8
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+vlatch_tb
+R0
+!s110 1645486861
+!i10b 1
+!s100 oWcZ`V5?XelE399`8k;dK3
+R2
+IMJEdG[HzFAW4:CI[F4R3Z0
+R3
+S1
+R4
+w1645484787
+8C:/ECE551/HW2/latch_tb.sv
+FC:/ECE551/HW2/latch_tb.sv
+!i122 7
+L0 1 23
+R8
+r1
+!s85 0
+31
+!s108 1645486861.000000
+!s107 C:/ECE551/HW2/latch_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/HW2/latch_tb.sv|
+!i113 1
+R11
+R12
+vSR_ff
+R0
+R1
+!i10b 1
+!s100 `8M1UK<4SH6YCP4H2C@E52
+R2
+I4@CdQTdzn^l=Y:5?IDC4d0
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 11
+L0 48 17
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@s@r_ff

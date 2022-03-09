@@ -1,0 +1,41 @@
+#read files
+read_file -format sverilog { ./UART_tx.sv ./UART_rx.sv ./UART.v }
+
+#set current design top level
+set current_design UART
+
+create_clock -name "clk" -period 2 -waveform {0 1} {clk}
+set_dont_touch_network [find port clk]
+
+
+# Setting input delay
+set prim_inputs [remove_from_collection [all_inputs] [find port clk]]
+set_input_delay -clock clk 0.4 $prim_inputs
+
+# Set drive strength of inputs
+set_driving_cell -lib_cell NAND2X2_LVT -library saed32rvt_tt0p85v25c $prim_inputs
+set_drive 0.1 rst_n
+
+# Setting Output Delay Constraints
+set_output_delay -clock clk 0.4 [all_outputs]
+set_load 0.1 [all_outputs]
+
+
+# Some Miscellaneous Constraints 
+set_wire_load_model -name 16000 -library saed32rvt_tt0p85v25c
+set_max_transition 0.15 [current_design]
+
+
+#flattens the design
+ungroup -all -flatten
+
+compile -map_effort medium
+
+# Generating timing & area reports
+report_timing -delay max
+report_timing -delay min
+report_area > UART_area.txt
+
+
+# Write out resulting synthesized netlist
+write -format verilog UART -output UART.vg

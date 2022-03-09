@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim/EX/EX3
+vex3
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1631808278
+!i10b 1
+!s100 1Sa?b5FXYVVc3CFGUJ<gF0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBiHX8bFGziUMWKT8De^640
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dE:/modelsim/EX/EX3/333
+w1631800550
+8E:\modelsim\EX\EX3\ex3.sv
+FE:\modelsim\EX\EX3\ex3.sv
+!i122 3
+Z4 L0 1 20
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1631808277.000000
+!s107 E:\modelsim\EX\EX3\ex3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:\modelsim\EX\EX3\ex3.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vex3_tb
+R0
+!s110 1631801557
+!i10b 1
+!s100 RL:WW7Gdj;=iNc5:X?=e=2
+R1
+In4@Lk_XY9mF6h1Hco9D2M0
+R2
+S1
+R3
+w1631801544
+8E:\modelsim\EX\EX3\ex3_tb.sv
+FE:\modelsim\EX\EX3\ex3_tb.sv
+!i122 2
+R4
+R5
+r1
+!s85 0
+31
+!s108 1631801556.000000
+!s107 E:\modelsim\EX\EX3\ex3_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:\modelsim\EX\EX3\ex3_tb.sv|
+!i113 1
+R6
+R7

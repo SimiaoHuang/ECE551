@@ -1,0 +1,6 @@
+E:/modelsim/EX/EX3/ex3.sv {0 {vlog -work work -sv -stats=none {E:\modelsim\EX\EX3\ex3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ex3
+** Error: (vlog-13069) E:\modelsim\EX\EX3\ex3.sv(10): near "tri1": syntax error, unexpected tri1, expecting IDENTIFIER or TYPE_IDENTIFIER or NETTYPE_IDENTIFIER or '('.
+
+} {4.0 5.0} {}}

@@ -1,0 +1,63 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim/555project/milestone2
+vTourCmd
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1638414176
+!i10b 1
+!s100 N=VO4ogiQ<6ozdlNIA9WJ2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2m7Z^m9IO7XK2ll@K8bN;0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dE:/modelsim/EX/EX23
+w1638414156
+8E:/modelsim/EX/EX23/TourCmd.sv
+FE:/modelsim/EX/EX23/TourCmd.sv
+!i122 54
+L0 1 148
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1638414175.000000
+!s107 E:/modelsim/EX/EX23/TourCmd.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX23/TourCmd.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@tour@cmd
+vTourCmd_tb
+R0
+R1
+!i10b 1
+!s100 XM0PRL=alEQoHYVe<^C6O0
+R2
+I?TUhe8`JF>1az?IkJdfA=3
+R3
+S1
+R4
+w1638344917
+8E:/modelsim/EX/EX23/TourCmd_tb.sv
+FE:/modelsim/EX/EX23/TourCmd_tb.sv
+!i122 55
+L0 1 176
+R5
+r1
+!s85 0
+31
+!s108 1638414176.000000
+!s107 E:/modelsim/EX/EX23/TourCmd_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX23/TourCmd_tb.sv|
+!i113 1
+R6
+R7
+n@tour@cmd_tb

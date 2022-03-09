@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim/EX/EX16
+vmult_accum_gated
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1636088877
+!i10b 1
+!s100 ^N6F`iXoiAl_zEd1iem]C0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie>iE`5JhM;Pl3KS_MUX2M2
+VDg1SIo80bB@j0V0VzS_@n1
+S1
+dE:/modelsim/EX/EX18
+w1636088873
+8E:/modelsim/EX/EX18/mult_accum_gate.sv
+FE:/modelsim/EX/EX18/mult_accum_gate.sv
+!i122 0
+L0 1 48
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1636088877.000000
+!s107 E:/modelsim/EX/EX18/mult_accum_gate.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX18/mult_accum_gate.sv|
+!i113 1
+o-work work -sv
+tCvgOpt 0

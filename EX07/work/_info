@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ECE551/EX/EX7
+vdesiredDrive
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1645481029
+!i10b 1
+!s100 l6nAXBWTbmN2AzCPO]WVi0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOP6KKobo_NXh4UkZ@IEb[1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/ECE551/EX07
+w1645480866
+8C:/ECE551/EX07/desiredDrive.sv
+FC:/ECE551/EX07/desiredDrive.sv
+!i122 35
+L0 1 39
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1645481029.000000
+!s107 C:/ECE551/EX07/desiredDrive.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX07/desiredDrive.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+ndesired@drive
+vdesiredDrive_tb
+R0
+!s110 1645482675
+!i10b 1
+!s100 [0GDGCel>eN]`AE4L0LU51
+R2
+IHa?UdbDdAhCW3UP0_5A8P0
+R3
+S1
+R4
+w1645482643
+8C:/ECE551/EX07/desiredDrive_tb.sv
+FC:/ECE551/EX07/desiredDrive_tb.sv
+!i122 38
+L0 1 133
+R5
+r1
+!s85 0
+31
+!s108 1645482675.000000
+!s107 C:/ECE551/EX07/desiredDrive_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX07/desiredDrive_tb.sv|
+!i113 1
+R7
+R8
+ndesired@drive_tb
+vincline_sat
+R0
+R1
+!i10b 1
+!s100 3hnkKFik71kk6=en@o6K_2
+R2
+IUYM2EU0CXaCMhW[m41=AR1
+R3
+S1
+R4
+w1645415968
+8C:/ECE551/EX07/incline_sat.sv
+FC:/ECE551/EX07/incline_sat.sv
+!i122 33
+L0 1 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ECE551/EX07/incline_sat.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX07/incline_sat.sv|
+!i113 1
+R7
+R8
+vincline_sat_tb
+R0
+R1
+!i10b 1
+!s100 NI1`m0:XmcIJ;X0Zo956^0
+R2
+IOTjmWV@Gc[ZG@^91_SBj93
+R3
+S1
+R4
+w1645478089
+8C:/ECE551/EX07/incline_sat_tb.sv
+FC:/ECE551/EX07/incline_sat_tb.sv
+!i122 34
+L0 1 53
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ECE551/EX07/incline_sat_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX07/incline_sat_tb.sv|
+!i113 1
+R7
+R8

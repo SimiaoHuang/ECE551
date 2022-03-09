@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ECE551/EX/EX3/333
+vdff
+Z0 !s110 1644185328
+!i10b 1
+!s100 HCnK_>zhS>[GBLoK9HcO[2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>_MCVKj9MmgFINzD:TWGh3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/ECE551/EX04
+w1643936547
+8C:/ECE551/EX04/dff.v
+FC:/ECE551/EX04/dff.v
+!i122 4
+L0 1 10
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1644185328.000000
+!s107 C:/ECE551/EX04/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/EX04/dff.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vsynch_detect
+R0
+!i10b 1
+!s100 z1Z79cD[J?eiDnoUhjoe70
+R1
+IdIcIZ7a@UQ4NNYQk]=Bda1
+R2
+R3
+w1643937438
+8C:/ECE551/EX04/synch_detect.v
+FC:/ECE551/EX04/synch_detect.v
+!i122 6
+L0 1 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ECE551/EX04/synch_detect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/EX04/synch_detect.v|
+!i113 1
+R6
+R7
+vsynch_detect_tb
+R0
+!i10b 1
+!s100 _iF?go?NPbzh>PM5jeRG91
+R1
+Ig:<;^_elV<@8b`:n>?Fmo1
+R2
+R3
+w1643936546
+8C:/ECE551/EX04/synch_detect_tb.v
+FC:/ECE551/EX04/synch_detect_tb.v
+!i122 5
+L0 1 50
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ECE551/EX04/synch_detect_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ECE551/EX04/synch_detect_tb.v|
+!i113 1
+R6
+R7

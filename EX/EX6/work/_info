@@ -1,0 +1,37 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim/552HW1/3
+vP_term
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1632373103
+!i10b 1
+!s100 XiabN7LM5:DoB8Wl:f_613
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IM8I5gGJHWVDn]TJ=EWA?L0
+VDg1SIo80bB@j0V0VzS_@n1
+S1
+dE:/modelsim/EX/EX6
+w1632373088
+8E:/modelsim/EX/EX6/P_term.sv
+FE:/modelsim/EX/EX6/P_term.sv
+!i122 3
+L0 1 14
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1632373102.000000
+!s107 E:/modelsim/EX/EX6/P_term.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX6/P_term.sv|
+!i113 1
+o-work work -sv
+tCvgOpt 0
+n@p_term

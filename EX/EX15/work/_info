@@ -1,0 +1,191 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim
+vCommTB
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1635971559
+!i10b 1
+!s100 X0V8jLGzb4?Jncam^o2mm3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWDSZ2mU34C33Gl3[P=R8@3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dE:/modelsim/EX/EX15
+w1635971550
+8E:/modelsim/EX/EX15/CommTB.sv
+FE:/modelsim/EX/EX15/CommTB.sv
+!i122 77
+L0 1 65
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1635971559.000000
+!s107 E:/modelsim/EX/EX15/CommTB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX15/CommTB.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@comm@t@b
+vdouble_DFF
+R0
+!s110 1635833229
+!i10b 1
+!s100 ZPUT03ihS;SEId3oEZLWi1
+R1
+Iaf21oXZfG@U6gKml2eT;]1
+R2
+S1
+R3
+w1635831976
+8E:/modelsim/EX/EX15/double_DFF.sv
+FE:/modelsim/EX/EX15/double_DFF.sv
+!i122 63
+L0 1 22
+R4
+r1
+!s85 0
+31
+!s108 1635833229.000000
+!s107 E:/modelsim/EX/EX15/double_DFF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX15/double_DFF.sv|
+!i113 1
+R5
+R6
+ndouble_@d@f@f
+vRemoteComm
+R0
+!s110 1635834764
+!i10b 1
+!s100 ^CH?fVEMXVh^QdBV2e]8b0
+R1
+Ia<SmiMU3<d1lALX@a3IiE3
+R2
+S1
+R3
+w1635833905
+8E:/modelsim/EX/EX15/RemoteComm.sv
+FE:/modelsim/EX/EX15/RemoteComm.sv
+!i122 75
+L0 1 95
+R4
+r1
+!s85 0
+31
+Z7 !s108 1635834763.000000
+!s107 E:/modelsim/EX/EX15/RemoteComm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX15/RemoteComm.sv|
+!i113 1
+R5
+R6
+n@remote@comm
+vUART
+Z8 !s110 1635834763
+!i10b 1
+!s100 ozZMQQY>8LzjOeP^z:;;L3
+R1
+IPQJTjB951MJAi3fBB8Kk32
+R2
+R3
+w1634612737
+8E:/modelsim/EX/EX15/UART.v
+FE:/modelsim/EX/EX15/UART.v
+!i122 71
+L0 1 24
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/modelsim/EX/EX15/UART.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/modelsim/EX/EX15/UART.v|
+!i113 1
+o-work work
+R6
+n@u@a@r@t
+vUART_rx
+R0
+R8
+!i10b 1
+!s100 gf6jN@:[3:4]^POJ[TGJ<0
+R1
+I_P8EJFKK0[[_2^MilBczT3
+R2
+S1
+R3
+w1635741155
+8E:/modelsim/EX/EX15/UART_rx.sv
+FE:/modelsim/EX/EX15/UART_rx.sv
+!i122 72
+L0 1 132
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/modelsim/EX/EX15/UART_rx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX15/UART_rx.sv|
+!i113 1
+R5
+R6
+n@u@a@r@t_rx
+vUART_tx
+R0
+R8
+!i10b 1
+!s100 bP7e_J1XWIaRDZ6[nJ:BT1
+R1
+IgFCVha<M6XIbF]@kcGmU;2
+R2
+S1
+R3
+w1635741157
+8E:/modelsim/EX/EX15/UART_tx.sv
+FE:/modelsim/EX/EX15/UART_tx.sv
+!i122 73
+L0 1 113
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/modelsim/EX/EX15/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX15/UART_tx.sv|
+!i113 1
+R5
+R6
+n@u@a@r@t_tx
+vUART_wrapper
+R0
+R8
+!i10b 1
+!s100 U_OMI[6XT;799T5klb:Fb1
+R1
+I<dW32EzZ76c?GUiHonl]f0
+R2
+S1
+R3
+w1635815364
+8E:/modelsim/EX/EX15/UART_wrapper.sv
+FE:/modelsim/EX/EX15/UART_wrapper.sv
+!i122 74
+L0 1 72
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/modelsim/EX/EX15/UART_wrapper.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX15/UART_wrapper.sv|
+!i113 1
+R5
+R6
+n@u@a@r@t_wrapper

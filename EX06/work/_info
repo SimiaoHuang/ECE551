@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ECE551/EX/EX7
+vshifter
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1645415672
+!i10b 1
+!s100 T;;dz73VWRde8<`igSlQ70
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUInGJ0=g9M9RB0bK1^>zY2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/ECE551/EX06
+w1645415670
+8C:/ECE551/EX06/shifter.sv
+FC:/ECE551/EX06/shifter.sv
+!i122 16
+L0 1 31
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1645415672.000000
+!s107 C:/ECE551/EX06/shifter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX06/shifter.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+vshifter_tb
+R0
+!s110 1644427348
+!i10b 1
+!s100 K1=k7<VV3_VYQ@MP_[DXj1
+R1
+I1KQoY_45PjnEj:V6Wf??30
+R2
+S1
+R3
+w1644375402
+8C:/ECE551/EX06/shifter_tb.sv
+FC:/ECE551/EX06/shifter_tb.sv
+!i122 6
+L0 1 27
+R4
+r1
+!s85 0
+31
+!s108 1644427348.000000
+!s107 C:/ECE551/EX06/shifter_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/ECE551/EX06/shifter_tb.sv|
+!i113 1
+R5
+R6

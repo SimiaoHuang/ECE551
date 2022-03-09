@@ -1,0 +1,15 @@
+E:/modelsim/EX/EX10/Dterm_tb.sv {1 {vlog -work work -sv -stats=none {E:\modelsim\EX\EX10\Dterm_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Dterm_tb
+
+Top level modules:
+	Dterm_tb
+
+} {} {}} E:/modelsim/EX/EX10/Dterm.sv {1 {vlog -work work -sv -stats=none E:/modelsim/EX/EX10/Dterm.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Dterm
+
+Top level modules:
+	Dterm
+
+} {} {}}

@@ -1,0 +1,23 @@
+module ex03_as(d, q, clk, rst);
+
+ input d, clk, rst;
+ output q;
+
+ wire md, mq, sd;
+ wire n1, n2;
+ wire rst_n; 
+
+ not nt3(rst_n, rst);
+
+ notif1 #1 ni1(md, d, clk);
+ not nt1(mq, md);
+ and a1(n1, mq, rst);
+ not(weak1, weak0) nt2(md, n1);
+
+ notif1 #1 ni2(sd, mq, ~clk);
+ not nt3(q, sd);
+ and a2(n2, q, rst);
+ not(weak1, weak0) nt4(sd, n2);
+
+endmodule
+

@@ -1,0 +1,138 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim/EX/EX16
+vinert_intf
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1637529136
+!i10b 1
+!s100 NKg=1medd[ZIf`h0ZmObh2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INU;;]@G]ez0Nl=;fz4cL61
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dE:/modelsim/EX/EX19
+w1637128493
+8E:/modelsim/EX/EX19/inert_intf.sv
+FE:/modelsim/EX/EX19/inert_intf.sv
+!i122 20
+L0 7 172
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1637529136.000000
+!s107 E:/modelsim/EX/EX19/inert_intf.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX19/inert_intf.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vinert_intf_tb
+R0
+R1
+!i10b 1
+!s100 L10Mb:aVlVHYkOEVRQQW60
+R2
+ICS_9JTnm1FcX`R=FHbac:2
+R3
+S1
+R4
+w1637128536
+8E:/modelsim/EX/EX19/inert_intf_tb.sv
+FE:/modelsim/EX/EX19/inert_intf_tb.sv
+!i122 19
+L0 1 74
+R5
+r1
+!s85 0
+31
+Z9 !s108 1637529135.000000
+!s107 E:/modelsim/EX/EX19/inert_intf_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX19/inert_intf_tb.sv|
+!i113 1
+R7
+R8
+vinertial_integrator
+R0
+Z10 !s110 1637529135
+!i10b 1
+!s100 SmAgOAi2mNz=1_AMm@0Bl3
+R2
+IMY?`fM]X?I2ezd>emnnRz3
+R3
+S1
+R4
+w1637128586
+8E:/modelsim/EX/EX19/inertial_integrator.sv
+FE:/modelsim/EX/EX19/inertial_integrator.sv
+!i122 17
+L0 1 196
+R5
+r1
+!s85 0
+31
+R9
+!s107 E:/modelsim/EX/EX19/inertial_integrator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX19/inertial_integrator.sv|
+!i113 1
+R7
+R8
+vSPI_iNEMO2
+R0
+R10
+!i10b 1
+!s100 na1EHOZI[S>bkQzbB?3`C2
+R2
+I@2nn_nn5=5MlQd<VAGB:?1
+R3
+S1
+R4
+w1636518365
+8E:/modelsim/EX/EX19/SPI_iNEMO2.sv
+FE:/modelsim/EX/EX19/SPI_iNEMO2.sv
+!i122 18
+L0 1 225
+R5
+r1
+!s85 0
+31
+R9
+!s107 E:/modelsim/EX/EX19/SPI_iNEMO2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX19/SPI_iNEMO2.sv|
+!i113 1
+R7
+R8
+n@s@p@i_i@n@e@m@o2
+vSPI_mnrch
+R0
+R1
+!i10b 1
+!s100 log]f1`[]W1n9?fk2<mif0
+R2
+IeJUVPBRofJ9GJOiW;V`Gd1
+R3
+S1
+R4
+w1636953038
+8E:/modelsim/EX/EX19/SPI_mnrch.sv
+FE:/modelsim/EX/EX19/SPI_mnrch.sv
+!i122 21
+L0 1 160
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/modelsim/EX/EX19/SPI_mnrch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/modelsim/EX/EX19/SPI_mnrch.sv|
+!i113 1
+R7
+R8
+n@s@p@i_mnrch
